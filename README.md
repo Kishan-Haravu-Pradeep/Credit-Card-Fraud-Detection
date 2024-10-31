@@ -25,7 +25,12 @@ Collections, Itertools
 ### Steps to Develop Credit Card Fraud Classifier in Machine Learning
 #### Our approach to building the classifier is discussed in the steps:
 
-#### 1) Perform Exploratory Data Analysis (EDA) on our dataset
+#### 
+1) Perform Exploratory Data Analysis (EDA) on our dataset
 2) Apply different Machine Learning algorithms to our dataset
 3) Train and Evaluate our models on the dataset and pick the best one.
+
+### Summary
+#### 
+In this python machine learning project, we built a binary classifier using the Random Forest algorithm to detect credit card fraud transactions. Through this project, we understood and applied techniques to address the class imbalance issues and achieved an accuracy of more than 99%.
 
